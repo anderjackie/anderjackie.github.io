@@ -1,0 +1,17 @@
+= Chess
+
+A ideia desse espaço é melhorar o meu jogo e a maneira como eu o jogo. Não tanto com relação ao estudo de xadrez, como táticas, estratégias e tudo mais, mas como um espaço de auto-conhecimento da minha maneira de jogar.
+
+O que eu devo fazer em determinadas situações, como jogar quando estou cansado, qual a melhor maneira de pensar o jogo. Sempre estar avaliando e re-avaliando minhas partidas e, por que não, como uma maneira de me conhecer no jogo.
+
+* Não deixar as peças do adversário pilharem muito em cima da defesa Já procurar trocas de peças iguais e maneiras de soltar mais minhas peças.
+* Manter ataques perigosos mesmo estando na defensiva. Sempre de olho no rei do adversário e que peças dele estão vulneráveis.
+* Não ter medo de sacrificar peças mesmo que o jogo fique perdido.
+* Manter a cabeça no jogo e o jogo rolando.
+* Em jogos equilibrados com grande possiblidade de desequilibrio, como quando temos várias atacando e defendendo ao mesmo tempo pode ser uma boa ideia 
+** Aiviar um pouco essa tensão, pegando alguma peça atacada e movendo para a segurança. Fazer isso procurando manter as ameaças ao mesmo tempo que protege as peças.
+** Limitar o movimento de alguma peça do adversário.
+* Na dúvida entre duas ou mais jogadas sempre pensar na que mantém a iniciativa do meu lado (mais agressivo). Ou que força o adversário a tomar uma posição defensiva.
+* Em finais equilibrados tentar manter a dama mais centralizada e as peças mais soltas, sempre de olho nos peões doa adversário e em como ganhá-los.
+* Em finais sempre neutralizar os peões passados.
+* Em posições caóticas e em finais tentar dar cheques e melhorar posições.
