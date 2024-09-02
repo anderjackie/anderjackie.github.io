@@ -54,6 +54,7 @@ img {
   flex-direction: column;
   gap: 20px;
   justify-content: space-between;
+  padding: 0px 15px 0px 15px;
 }
 
 .main-text {
