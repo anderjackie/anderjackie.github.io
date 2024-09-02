@@ -3,6 +3,8 @@
   --light-blue: hsl(212, 45%, 89%);
   --dark-blue: hsl(218, 44%, 22%);
   --light-gray: hsl(216, 15%, 48%);
+  --regular: 400;
+  --bold: 700;
 }
 
 * {
@@ -14,6 +16,7 @@
 body {
   font-family: Outfit;
   font-size: 15px;
+  font-weight: var(--regular);
   background-color: var(--light-blue);
   display: flex;
   justify-content: center;
@@ -31,10 +34,10 @@ body {
   margin: 0 auto;
   text-align: center;
   border-radius: 15px;
-  min-height: 480px;
-  min-width: 310px;
-  max-height: 480px;
-  max-width: 310px;
+  min-height: 499px;
+  min-width: 320px;
+  max-height: 499px;
+  max-width: 320px;
   padding: 15px 15px 20px 15px;
   box-shadow: 0px 15px 0px 0px var(--light-blue);
 }
@@ -53,11 +56,13 @@ img {
   justify-content: space-between;
 }
 
-h3 {
+.main-text {
   font-size: 1.4rem;
+  font-weight: var(--bold);
   color: var(--dark-blue);
 }
 
-p {
+.sub-text {
+  font-size: 1.0rem;
   color: var(--light-gray);
 }
