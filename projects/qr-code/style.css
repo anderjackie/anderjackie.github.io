@@ -58,12 +58,11 @@ img {
 }
 
 .main-text {
-  font-size: 1.4rem;
+  font-size: 1.35rem;
   font-weight: var(--bold);
   color: var(--dark-blue);
 }
 
 .sub-text {
-  font-size: 1.0rem;
   color: var(--light-gray);
 }
